@@ -1,7 +1,3 @@
-import imp
-from urllib import response
-
-
 import requests
 
 def main():
